@@ -1,7 +1,11 @@
 # AI Product Hackathon – TwinMind Feature Design
 
+---
+
 ## 👤 Role
 Product Designer / AI Product Thinker
+
+---
 
 ## 🏁 Hackathon Context
 Built during the AI Product Hackathon organized by Product Space × TwinMind.
